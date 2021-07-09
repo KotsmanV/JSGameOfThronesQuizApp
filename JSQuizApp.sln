@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JSQuizApp", ".", "{6B45684C-85EC-41E3-A7F9-4B7A6C367FB0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4118"
+		Debug.AspNetCompiler.PhysicalPath = "..\JSQuizApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4118\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4118"
+		Release.AspNetCompiler.PhysicalPath = "..\JSQuizApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4118\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4118"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B45684C-85EC-41E3-A7F9-4B7A6C367FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B45684C-85EC-41E3-A7F9-4B7A6C367FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB387E2-D6F4-4636-B6BF-883F1858D1E9}
+	EndGlobalSection
+EndGlobal
